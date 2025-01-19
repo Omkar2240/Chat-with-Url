@@ -3,8 +3,3 @@ langchain
 langchain-google-genai
 langchain-community
 google-generativeai
-langchain_community.document_loaders
-langchain.prompts
-langchain.chains.question_answering
-langchain.vectorstores
-langchain.text_splitter
